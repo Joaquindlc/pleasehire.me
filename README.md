@@ -1,7 +1,7 @@
 # pleasehire.me 🚀
 > **An Intelligent Job Extraction Bot & Toolkit for Developers**
 
-`pleasehire.me` is a desktop automation tool built in Python that streamlines tech job hunting. Utilizing an asynchronous, multi-threaded architecture with a **Tkinter GUI** and **Playwright**, the application orchestrates secure session handshakes and scans technical job listings (such as LinkedIn and CompuTrabajo) to generate clean, technical stack summaries in real-time.
+`pleasehire.me` is a desktop automation tool built in Python that streamlines tech job hunting. Utilizing an asynchronous, multi-threaded architecture with a **Tkinter GUI** and **Playwright**, the application orchestrates secure session handshakes and scans technical job listings (such as LinkedIn for Global/Remote and CompuTrabajo only for Argentina) to generate clean, technical stack summaries in real-time.
 
 ---
 
